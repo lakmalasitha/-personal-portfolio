@@ -1,7 +1,7 @@
 {
   "name": "personal-portfolio",
   "version": "0.1.0",
-  "homepage": "https://lakmalasitha.github.io/lakmalasitha.github.io",
+  "homepage": "https://lakmalasitha.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
