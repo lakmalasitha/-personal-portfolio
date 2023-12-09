@@ -19,27 +19,35 @@ const Qualification = () => {
                 ? "qualification__button qualification__active button--flex"
                 : "qualification__button button--flex"
             }
-            onClick={()=> toggleTab(1)}
+            onClick={() => toggleTab(1)}
           >
             <i className="uil uil-graduation-cap qualification__icon"></i>
             Education
           </div>
-          <div  className={
+          <div
+            className={
               toggleState === 2
                 ? "qualification__button qualification__active button--flex"
                 : "qualification__button button--flex"
             }
-            onClick={()=> toggleTab(2)}>
+            onClick={() => toggleTab(2)}
+          >
             <i className="uil uil-briefcase-alt qualification__icon"></i>
             Experience
           </div>
         </div>
 
         <div className="qualification__sections">
-          <div className= {toggleState === 1 ? "qualification__content Qualification__content-active" : "qualification__content"}>
+          <div
+            className={
+              toggleState === 1
+                ? "qualification__content Qualification__content-active"
+                : "qualification__content"
+            }
+          >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web design</h3>
+                <h3 className="qualification__title">Bachelor Of Industrial Information Technology</h3>
                 <span className="qualification__subtitle">
                   uva wellassa university
                 </span>
@@ -62,61 +70,48 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Art Director</h3>
+                <h3 className="qualification__title">Diploma in computer science</h3>
                 <span className="qualification__subtitle">
-                  uva wellassa university
+                ESOFT Metro Campus
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2017-2021
+                  <i className="uil uil-calendar-alt"></i>2015-2016
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Development</h3>
+                <h3 className="qualification__title">Ordinary level & Advanced level</h3>
                 <span className="qualification__subtitle">
-                  uva wellassa university
+                  Dharmaraja College-Sri Lanka
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2017-2021
+                  <i className="uil uil-calendar-alt"></i>2012-2015
                 </div>
               </div>
               <div>
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
-              </div>
-            </div>
-
-            <div className="qualification__data">
-              <div></div>
-
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-
-              <div>
-                <h3 className="qualification__title">UX expert</h3>
-                <span className="qualification__subtitle">
-                  uva wellassa university
-                </span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2017-2021
-                </div>
               </div>
             </div>
           </div>
 
-          <div className= {toggleState === 2 ? "qualification__content Qualification__content-active" : "qualification__content"}>
+          <div
+            className={
+              toggleState === 2
+                ? "qualification__content Qualification__content-active"
+                : "qualification__content"
+            }
+          >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">product desing</h3>
+                <h3 className="qualification__title">Software Engineer-Intern</h3>
                 <span className="qualification__subtitle">
-                  uva wellassa university
+                 Eight25(pvt)Ltd
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2017-2021
+                  <i className="uil uil-calendar-alt"></i>2020
                 </div>
               </div>
               <div>
@@ -134,24 +129,24 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Art Director</h3>
+                <h3 className="qualification__title">Associate Software Engineer </h3>
                 <span className="qualification__subtitle">
-                  uva wellassa university
+                Eight25(pvt)Ltd
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2017-2021
+                  <i className="uil uil-calendar-alt"></i>2020-2021
                 </div>
               </div>
             </div>
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Development</h3>
+                <h3 className="qualification__title">Software Engineer</h3>
                 <span className="qualification__subtitle">
-                  uva wellassa university
+                Eight25(pvt)Ltd
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2017-2021
+                  <i className="uil uil-calendar-alt"></i>2021-2023
                 </div>
               </div>
               <div>
@@ -169,12 +164,12 @@ const Qualification = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">UX expert</h3>
+                <h3 className="qualification__title">freelancer</h3>
                 <span className="qualification__subtitle">
                   uva wellassa university
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2017-2021
+                  <i className="uil uil-calendar-alt"></i>2023-present
                 </div>
               </div>
             </div>
