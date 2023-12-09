@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/lakmalasitha.github.io/static/css/main.233c2f77.css",
-    "main.js": "/lakmalasitha.github.io/static/js/main.7c1e28b9.js",
-    "static/js/787.e02c0aaf.chunk.js": "/lakmalasitha.github.io/static/js/787.e02c0aaf.chunk.js",
-    "static/media/profile-img.JPG": "/lakmalasitha.github.io/static/media/profile-img.0d7d353ab9a9780ae900.JPG",
-    "static/media/about.jpg": "/lakmalasitha.github.io/static/media/about.25037666cca34f8f569a.jpg",
-    "static/media/asitha-ruwange-CV.pdf": "/lakmalasitha.github.io/static/media/asitha-ruwange-CV.6bbe0166ab4e1b280163.pdf",
-    "static/media/work2.jpg": "/lakmalasitha.github.io/static/media/work2.e52a0c2981a6c11ba468.jpg",
-    "static/media/work4.jpg": "/lakmalasitha.github.io/static/media/work4.aee985961b648f4df1f2.jpg",
-    "static/media/work5.jpg": "/lakmalasitha.github.io/static/media/work5.094ec4a2224db8908873.jpg",
-    "static/media/work1.jpg": "/lakmalasitha.github.io/static/media/work1.321b4ae3bf404acdfdc6.jpg",
-    "static/media/work3.jpg": "/lakmalasitha.github.io/static/media/work3.135e9065694bc13dc31d.jpg",
-    "index.html": "/lakmalasitha.github.io/index.html",
-    "main.233c2f77.css.map": "/lakmalasitha.github.io/static/css/main.233c2f77.css.map",
-    "main.7c1e28b9.js.map": "/lakmalasitha.github.io/static/js/main.7c1e28b9.js.map",
-    "787.e02c0aaf.chunk.js.map": "/lakmalasitha.github.io/static/js/787.e02c0aaf.chunk.js.map"
+    "main.css": "/static/css/main.fd06f1d4.css",
+    "main.js": "/static/js/main.cdf37e3a.js",
+    "static/js/787.e02c0aaf.chunk.js": "/static/js/787.e02c0aaf.chunk.js",
+    "static/media/profile-img.JPG": "/static/media/profile-img.0d7d353ab9a9780ae900.JPG",
+    "static/media/about.jpg": "/static/media/about.25037666cca34f8f569a.jpg",
+    "static/media/asitha-ruwange-CV.pdf": "/static/media/asitha-ruwange-CV.6bbe0166ab4e1b280163.pdf",
+    "static/media/work2.jpg": "/static/media/work2.e52a0c2981a6c11ba468.jpg",
+    "static/media/work4.jpg": "/static/media/work4.aee985961b648f4df1f2.jpg",
+    "static/media/work5.jpg": "/static/media/work5.094ec4a2224db8908873.jpg",
+    "static/media/work1.jpg": "/static/media/work1.321b4ae3bf404acdfdc6.jpg",
+    "static/media/work3.jpg": "/static/media/work3.135e9065694bc13dc31d.jpg",
+    "index.html": "/index.html",
+    "main.fd06f1d4.css.map": "/static/css/main.fd06f1d4.css.map",
+    "main.cdf37e3a.js.map": "/static/js/main.cdf37e3a.js.map",
+    "787.e02c0aaf.chunk.js.map": "/static/js/787.e02c0aaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.233c2f77.css",
-    "static/js/main.7c1e28b9.js"
+    "static/css/main.fd06f1d4.css",
+    "static/js/main.cdf37e3a.js"
   ]
 }
