@@ -10,28 +10,21 @@ const backend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">PHP</h3>
-              <span className="skills__level">intermediate</span>
+              <span className="skills__level">Intermediate</span>
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">node js</h3>
-              <span className="skills__level">basic</span>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">C++</h3>
-              <span className="skills__level">biginner</span>
-            </div>
-          </div>
-          <div className="skills__data">
-            <i class="bx bx-badge-check"></i>
-            <div>
-              <h3 className="skills__name">MySql</h3>
-              <span className="skills__level">intermeidate</span>
+              <h3 className="skills__name">Python</h3>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
         </div>
@@ -40,14 +33,21 @@ const backend = () => {
             <i class="bx bx-badge-check"></i>
             <div>
               <h3 className="skills__name">Firebase</h3>
-              <span className="skills__level">beginner</span>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
           <div className="skills__data">
             <i class="bx bx-badge-check"></i>
             <div>
-              <h3 className="skills__name">php</h3>
-              <span className="skills__level">test</span>
+              <h3 className="skills__name">MySql</h3>
+              <span className="skills__level">Intermediate</span>
+            </div>
+          </div>
+          <div className="skills__data">
+            <i class="bx bx-badge-check"></i>
+            <div>
+              <h3 className="skills__name">C++</h3>
+              <span className="skills__level">Basic</span>
             </div>
           </div>
         </div>
